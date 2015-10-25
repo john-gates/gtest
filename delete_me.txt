@@ -1,4 +1,5 @@
 Hi John. Just running through The Git tutorial.
-I am going to push and then edit this locally and cherrypick and this text is different
+I am going to push and then edit this locally and cherrypick and this text is different to the local file.
+I have edited this on the server
 
 John Gates.... jgatesipad@me.com
